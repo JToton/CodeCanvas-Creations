@@ -1,4 +1,4 @@
-# Career-Canvas
+# CodeCanvas-Creations
 
 ## Description
 
@@ -17,7 +17,7 @@ Ultimately, I wasn't able to achieve full artistic vision within this project bu
 
 ## Link to Deployed Application.
 
-• [https://jtoton.github.io/Accessibility-Refactoring-Challenge/]
+• [https://jtoton.github.io/CodeCanvas-Creations/]
 
 ## Table of Contents:
 
